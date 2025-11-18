@@ -4,12 +4,18 @@ Author: Schloffer Lisa
 2025/26
 
 
-## Umsetzung
+## Umsetzung Prim
 
 1. Zuerst ging es mir darum erstmal wie bei Übung 2 nur ein leeres Feld zu haben.
 
-![Screenshot Eingabe Feld](assets/eingabefeld.png)
+![Screenshot Eingabefeld](assets/eingabefeld.png)
 
 2. Dann habe ich die Logik vom Rechner umgesetzt. Auch hier habe ich mich zu Beginn noch an die zweite Übung gehalten.
 
-![Primzahl Rechner](assets/Rechner.png)
+![Screemshot Primzahl Rechner](assets/Rechner.png)
+
+## Umsetzung Log
+
+1. Auch hier habe  ich zuerst das Eingabefeld erstellt.
+
+![Screenshot Eingabefeld 2](assets/eingabefeld2.png)

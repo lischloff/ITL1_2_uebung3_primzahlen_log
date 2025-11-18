@@ -54,7 +54,14 @@
         <?= $ausgabe ?>
     </div>
 
+<!--Code für den Log-->
 
+<!-- Formular für die Eingabe der Obergrenze -->
+<form action="" method="post">
+    <label for="zahl2">Bis Zahl:</label><br>
+    <input type="text" id="max" name="zahl2" value="<?=$max?>"><br><br>
+    <input type="submit" name="submit" value="Logarithmus anzeigen"><br><br>
+</form>
 </body>
 
 </html>
