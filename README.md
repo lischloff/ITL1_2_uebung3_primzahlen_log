@@ -16,6 +16,10 @@ Author: Schloffer Lisa
 
 ## Umsetzung Log
 
-1. Auch hier habe  ich zuerst das Eingabefeld erstellt.
+1. Auch hier habe ich zuerst das Eingabefeld erstellt.
 
 ![Screenshot Eingabefeld 2](assets/eingabefeld2.png)
+
+2. Und dann habe ich mich um den Log gekümmert. 
+
+![Screenshot Eingabefeld 2](assets/Log.png)
